@@ -66,7 +66,7 @@ flood report tests/test1_output tests/test2_output
 - `flood/cli`: command line interface
 - `flood/generators`: utilities for generating rpc calls with parameterized distributions
 - `flood/tests`: implementations of load tests and equality tests
-- `flood/user_io`: utiltiies for parsing user io
+- `flood/user_io`: utilities for parsing user io
 
 
 ## Contributing
